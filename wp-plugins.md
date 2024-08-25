@@ -1,5 +1,5 @@
 ## Wordpress Plugins List
-> 1. AirLift <br>
+<b>1. AirLift </b> <br>
 > Description: <br>
 > Easiest way to speed up your website
 
