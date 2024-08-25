@@ -43,58 +43,58 @@
 > Description: <br>
 > An easy to use WordPress responsive mobile menu. Keep your mobile visitors engaged.
 
-<b> 12. Mobile Menu </b> <br>
+<b> 12. Modern Image Formats </b> <br>
 > Description: <br>
-> An easy to use WordPress responsive mobile menu. Keep your mobile visitors engaged.
+> Converts images to more modern formats such as WebP or AVIF during upload.
 
-<b> 13. Mobile Menu </b> <br>
+<b> 13. Performance Lab </b> <br>
 > Description: <br>
-> An easy to use WordPress responsive mobile menu. Keep your mobile visitors engaged.
+> Performance plugin from the WordPress Performance Team, which is a collection of standalone performance features.
 
-<b> 14. Mobile Menu </b> <br>
+<b> 14. Performant Translations </b> <br>
 > Description: <br>
-> An easy to use WordPress responsive mobile menu. Keep your mobile visitors engaged.
+> Making internationalization/localization in WordPress faster than ever before.
 
-<b> 15. Mobile Menu </b> <br>
+<b> 15. Premium Addons for Elementor </b> <br>
 > Description: <br>
-> An easy to use WordPress responsive mobile menu. Keep your mobile visitors engaged.
+> Premium Addons for Elementor plugin includes widgets and addons like Blog Post Grid, Megamenu, Post Carousel, Advanced Slider, Modal Popup, Google Maps, SVG Draw, Lottie Animations, Countdown, Testimonials.
 
-<b> 16. Mobile Menu </b> <br>
+<b> 16. Recent Posts Widget With Thumbnails </b> <br>
 > Description: <br>
-> An easy to use WordPress responsive mobile menu. Keep your mobile visitors engaged.
+> Small and fast plugin to display in the sidebar a list of linked titles and thumbnails of the most recent postings
 
-<b> 17. Mobile Menu </b> <br>
+<b> 17. Royal Elementor Addons </b> <br>
 > Description: <br>
-> An easy to use WordPress responsive mobile menu. Keep your mobile visitors engaged.
+> The only plugin you need for Elementor page builder.
 
-<b> 18. Mobile Menu </b> <br>
+<b> 18. Sidebar Manager </b> <br>
 > Description: <br>
-> An easy to use WordPress responsive mobile menu. Keep your mobile visitors engaged.
+> This is the plugin to create custom siderbars to your site.
 
-<b> 19. Mobile Menu </b> <br>
+<b> 19. Site Kit by Google </b> <br>
 > Description: <br>
-> An easy to use WordPress responsive mobile menu. Keep your mobile visitors engaged.
+> Site Kit is a one-stop solution for WordPress users to use everything Google has to offer to make them successful on the web.
 
-<b> 20. Mobile Menu </b> <br>
+<b> 20. Speculative Loading </b> <br>
 > Description: <br>
-> An easy to use WordPress responsive mobile menu. Keep your mobile visitors engaged.
+> Enables browsers to speculatively prerender or prefetch pages when hovering over links.
 
-<b> 21. Mobile Menu </b> <br>
+<b> 21. The Post Grid </b> <br>
 > Description: <br>
-> An easy to use WordPress responsive mobile menu. Keep your mobile visitors engaged.
+> Fast & Easy way to display WordPress post in Grid, List & Isotope view ( filter by category, tag, author..) without a single line of coding.
 
-<b> 22. Mobile Menu </b> <br>
+<b> 22. Theme Builder For Elementor </b> <br>
 > Description: <br>
-> An easy to use WordPress responsive mobile menu. Keep your mobile visitors engaged.
+> Theme Builder For Elementor
 
-<b> 23. Mobile Menu </b> <br>
+<b> 23. Unlimited Elements for Elementor </b> <br>
 > Description: <br>
-> An easy to use WordPress responsive mobile menu. Keep your mobile visitors engaged.
+> Unlimited Elements - Huge Widgets Pack for Elementor Website Builder, with html/css/js widget creator and editor.
 
-<b> 24. Mobile Menu </b> <br>
+<b> 24. Wp Maximum Upload File Size </b> <br>
 > Description: <br>
-> An easy to use WordPress responsive mobile menu. Keep your mobile visitors engaged.
+> Wp Maximum Upload File Size will increase upload limit with one click. you can easily increase upload file size according to your need.
 
-<b> 25. Mobile Menu </b> <br>
+<b> 25. Happy Addons </b> <br>
 > Description: <br>
-> An easy to use WordPress responsive mobile menu. Keep your mobile visitors engaged.
+> Happy Addons for Elementor is One of best Elementor Addons comes with Theme Builder that covers free Header Footer, Single Post Template, and Archive Page Builder, with 137 Free & Pro Widgets & 28 Features to enhance Elementor.
