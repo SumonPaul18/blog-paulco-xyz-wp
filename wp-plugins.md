@@ -99,26 +99,45 @@
 > Description: <br>
 > Happy Addons for Elementor is One of best Elementor Addons comes with Theme Builder that covers free Header Footer, Single Post Template, and Archive Page Builder, with 137 Free & Pro Widgets & 28 Features to enhance Elementor.
 
- #### Using Wordpress Plugins
-1. For Social Share Icon
+### Using Wordpress Plugins
+#### 1. For Social Share Icon
 
 EKIT
 
-2. For Comments
+#### 2. For Comments
 
 wpDiscuz
 
-3. For Content Ticker
+#### 3. For Content Ticker
 
 EA
 
-4. For Post Title, Post Meta, Autor Box
+#### 4. For Post Title, Post Meta, Autor Box
 
 R
 
-5. For Tag Cloud
+#### 5. For Tag Cloud
 
 PA
 
-6. For 
+#### 6. For Header Footer
+ElementsKit
+
+#### 7. For Site Logo
+HFB
+
+#### 6. For Navigation Menu
+HFB
+
+#### 6. For Social Icon
+Default
+
+#### 6. For Search
+HFB
+
+#### 6. For Post List
+EKIT
+
+#### 6. For Icon List
+Default
 
