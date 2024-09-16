@@ -141,3 +141,6 @@ EKIT
 #### 6. For Icon List
 Default
 
+#### 6. For Home Page Theme
+ElementsKit
+
