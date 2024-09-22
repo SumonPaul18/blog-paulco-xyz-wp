@@ -23,7 +23,7 @@
 > Description: <br>
 > The Elementor Website Builder has it all: drag and drop page builder, pixel perfect design, mobile responsive editing, and more. Get started now!
 
-<b> 7. Elementor Addon Elements </b> <br>
+<b> 7. Elementor Addon Elements (EAE) </b> <br>
 > Description: <br>
 > Elementor Addon Elements comes with 40+ widgets and extensions to extend the power of Elementor Page Builder.
 
@@ -63,7 +63,7 @@
 > Description: <br>
 > Small and fast plugin to display in the sidebar a list of linked titles and thumbnails of the most recent postings
 
-<b> 17. Royal Elementor Addons </b> <br>
+<b> 17. Royal Elementor Addons (R) </b> <br>
 > Description: <br>
 > The only plugin you need for Elementor page builder.
 
@@ -87,7 +87,7 @@
 > Description: <br>
 > Theme Builder For Elementor
 
-<b> 23. Unlimited Elements for Elementor </b> <br>
+<b> 23. Unlimited Elements for Elementor (UE) </b> <br>
 > Description: <br>
 > Unlimited Elements - Huge Widgets Pack for Elementor Website Builder, with html/css/js widget creator and editor.
 
@@ -95,7 +95,7 @@
 > Description: <br>
 > Wp Maximum Upload File Size will increase upload limit with one click. you can easily increase upload file size according to your need.
 
-<b> 25. Happy Addons </b> <br>
+<b> 25. Happy Addons (H) </b> <br>
 > Description: <br>
 > Happy Addons for Elementor is One of best Elementor Addons comes with Theme Builder that covers free Header Footer, Single Post Template, and Archive Page Builder, with 137 Free & Pro Widgets & 28 Features to enhance Elementor.
 
