@@ -1,4 +1,4 @@
-## Uses Wordpress Plugins for ![blog.paulco.xyz](https:blog.paulco.xyz)
+## Uses Wordpress Plugins for [blog.paulco.xyz](https:blog.paulco.xyz)
 #### 1. For Social Share Icon
 
 EKIT
