@@ -27,7 +27,7 @@
 > Description: <br>
 > Elementor Addon Elements comes with 40+ widgets and extensions to extend the power of Elementor Page Builder.
 
-<b> 8. Elementor Header & Footer Builder </b> <br>
+<b> 8. Elementor Header & Footer Builder (HFB) </b> <br>
 > Description: <br>
 > This powerful plugin allows creating a custom header, footer with Elementor and display them on selected locations. You can also create custom Elementor blocks and place them anywhere on the website with a shortcode.
 
