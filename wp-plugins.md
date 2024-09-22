@@ -31,11 +31,11 @@
 > Description: <br>
 > This powerful plugin allows creating a custom header, footer with Elementor and display them on selected locations. You can also create custom Elementor blocks and place them anywhere on the website with a shortcode.
 
-<b> 9. ElementsKit Lite </b> <br>
+<b> 9. ElementsKit Lite (EKIT) </b> <br>
 > Description: <br>
 > The most advanced addons for Elementor with tons of widgets, Header builder, Footer builder, Mega menu builder, layout pack and powerful custom controls.
 
-<b> 10. Essential Addons for Elementor </b> <br>
+<b> 10. Essential Addons for Elementor (EA) </b> <br>
 > Description: <br>
 > The Essential plugin you install after Elementor! Packed with 40+ stunning free elements including Advanced Data Table, Event Calendar, Filterable Gallery, WooCommerce, and many more.
 
@@ -55,7 +55,7 @@
 > Description: <br>
 > Making internationalization/localization in WordPress faster than ever before.
 
-<b> 15. Premium Addons for Elementor </b> <br>
+<b> 15. Premium Addons for Elementor (PA) </b> <br>
 > Description: <br>
 > Premium Addons for Elementor plugin includes widgets and addons like Blog Post Grid, Megamenu, Post Carousel, Advanced Slider, Modal Popup, Google Maps, SVG Draw, Lottie Animations, Countdown, Testimonials.
 
