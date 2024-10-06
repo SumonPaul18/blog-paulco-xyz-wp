@@ -1,7 +1,7 @@
 ## Uses Wordpress Plugins for [blog.paulco.xyz](https://blog.paulco.xyz)
-#### 1. For Social Share Icon, For Post List
+#### 1. For Social Share Icon, For Post List, Header Footer, Home Page Theme
 
-EKIT
+ElementsKit
 
 #### 2. For Comments
 
@@ -11,43 +11,22 @@ wpDiscuz
 
 EA
 
-#### 4. For Post Title, Post Meta, Autor Box
+#### 4. For Post Title, Post Meta, Autor Box, Contact Form
 
 R
 
-#### 5. For Tag Cloud
+#### 5. For Tag Cloud, Blog
 
 PA
 
-#### 6. For Header Footer
-ElementsKit
 
-#### 7. For Site Logo
+#### 6. For Site Logo, Navigation Menu, Search
 HFB
 
-#### 8. For Navigation Menu
-HFB
-
-#### 9. For Social Icon
+#### 7. For Social Icon, Icon List
 Default
 
-#### 10. For Search
-HFB
-
-#### 12. For Icon List
-Default
-
-#### 13. For Home Page Theme
-ElementsKit
-
-#### 14. For Contact Form
-
-R
-
-#### 15. For Mobile Menu
+#### 8. For Mobile Menu
 
 Responsive Menu
 
-#### 16. For Blog
-
-PA
