@@ -1,5 +1,5 @@
 ## Uses Wordpress Plugins for [blog.paulco.xyz](https://blog.paulco.xyz)
-#### 1. For Social Share Icon
+#### 1. For Social Share Icon, For Post List
 
 EKIT
 
@@ -33,9 +33,6 @@ Default
 
 #### 10. For Search
 HFB
-
-#### 11. For Post List
-EKIT
 
 #### 12. For Icon List
 Default
