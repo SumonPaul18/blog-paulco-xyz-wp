@@ -9,7 +9,7 @@ wpDiscuz
 
 #### 3. For Content Ticker
 
-EA
+Royal
 
 #### 4. For Post Title, Post Meta, Autor Box, Contact Form
 
@@ -19,9 +19,8 @@ R
 
 PA
 
-
 #### 6. For Site Logo, Navigation Menu, Search
-HFB
+Elementor Header & Footer Builder
 
 #### 7. For Social Icon, Icon List
 Default
